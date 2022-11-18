@@ -1,0 +1,16 @@
+SQL - Structured Query Language
+    - programming language in the database development 
+    - focuses on the logic of grouping
+    
+most other programming languages focus more on procedure while SQL focuses on the logic of grouping
+
+
+Typical Architecture of Database Software System
+Database Software -> Database -> Schema -> Table -> Data
+
+- Database Software : MySQL, Postgre SQL etc.
+- Database : 
+- Schema : collection of Tables, which can be split or grouped according to requirements
+- Tables : record different data entities 
+- Data : Data itself, most valuable part.
+
